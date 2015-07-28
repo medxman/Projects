@@ -1,0 +1,12 @@
+Project Proposal: Mehdi Salemi
+- There will be 2 Parts to he program which the user will choose for at the start 
+- User can choose random or custom
+- If user chooses random, a random list of countries on a graph will appear, user 
+can then randomize that list, and this part will utilize different parts of mouse listener 
+and action listeener. If the graph is clicked at the exact position of the plotted country point, 
+then in the text box the country name will appear, if they click somewhere else in the graph, 
+the message No country at cords x,y" will appear. 
+- If the user chooses custom lift, and blank graph will appear and the user can enter countries
+into the text field and if country is found that it will be added to the lsit and graphed. 
+The user can add up to 10 countries to the list. 
+- Storyboard photo's are attached: 1 phote showing random graph and 1 photo showing the custo graph.
